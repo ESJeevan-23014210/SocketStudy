@@ -54,7 +54,7 @@ Socket programming finds applications in various domains, including web developm
 
 ## Program
 ### Developed by : Jeevan E S
-### Reg.No: 212223230091
+### Reg.No : 212223230091
 ## Client:
 ```python
 import socket
